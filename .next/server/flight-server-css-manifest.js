@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"C:\\Users\\Hammad\\Projects\\React JS\\Animated-modern-web\\app\\page":["C:\\Users\\Hammad\\Projects\\React JS\\Animated-modern-web\\styles\\globals.css"]},"C:\\Users\\Hammad\\Projects\\React JS\\Animated-modern-web\\app\\layout.js":["C:\\Users\\Hammad\\Projects\\React JS\\Animated-modern-web\\styles\\globals.css"]}
